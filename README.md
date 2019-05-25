@@ -1,0 +1,2 @@
+# codewords
+This is a simple encoder/decoder from binary to codewords and vice versa. Code words are chosen in such a way that in one code word there are no two identical letters in a row, there are no code words that differ from each other only by one letter, or only by one permutation of adjacent letters. Also, the fewer the 1's will be in the binary, the less time it will take to transmit the result by Morse code.
